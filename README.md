@@ -2,7 +2,7 @@
 by this web app you can calculate your capital.
 
 
-# Install And Use
+# Install and Use
 
 ```
 #npm
